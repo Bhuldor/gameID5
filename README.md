@@ -5,7 +5,8 @@ Depression Escape created by Bhuldor Entertainment - Game Lab
 Team:
 Gabriel Lucas
 Guilherme Nunes
+Fabricio Vigneron
 Felipe Marinho
 Paulo Sérgio
-Roberto Junior
+roberto Zerbinatti
 Rodrigo Alvares
